@@ -1,6 +1,7 @@
 # DATA624-Project
 
 Questions:
+
 A. Does the FEV differ according to either sex or smoking status? Describe your findings and comment on 
 any differences that you find.
 
